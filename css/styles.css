@@ -613,6 +613,7 @@ img {
 
 .portfolio-list .link-portfolio {
   text-decoration: none;
+  display: block;
 }
 
 .portfolio-list .link-portfolio:hover,
